@@ -24,6 +24,7 @@
     </dependencies>
 
     <build>
+        <finalName>LOK_RESTAPI_EXAMPLES</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
